@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CMakeSample.iml" filepath="$PROJECT_DIR$/CMakeSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpplib/cpplib.iml" filepath="$PROJECT_DIR$/cpplib/cpplib.iml" />
     </modules>
   </component>
 </project>
